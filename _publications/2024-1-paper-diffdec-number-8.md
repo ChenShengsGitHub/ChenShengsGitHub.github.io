@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-1-paper-diffdec-number-8
 excerpt: 'Pocket-conditioned molecular generation.'
-date: 2024-1
+date: 2024-1-24
 venue: 'Journal of Chemical Information and Modeling'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
