@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-11-paper-deepmutsol-number-6
 excerpt: 'Mutation-caused protein solubility change prediction'
-date: 2024-6
+date: 2023-11
 venue: 'Journal of Computational Chemistry'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
