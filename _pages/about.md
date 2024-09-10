@@ -32,4 +32,4 @@ I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen
 
 **2020/8**  My third-author work **DrugVQA** has recently been accepted by **Nature Machine Intelligence**! Congratulations to Dr. Shuangjia Zheng! [Read it!](https://doi.org/10.1038/s42256-020-0152-y)
 
-**2021/12**  My work **SPROF** has recently been accepted by **Journal of Chemical Information and Modeling**! [Read it!](https://doi.org/10.1021/acs.jcim.9b00438)
+**2019/12**  My work **SPROF** has recently been accepted by **Journal of Chemical Information and Modeling**! [Read it!](https://doi.org/10.1021/acs.jcim.9b00438)
