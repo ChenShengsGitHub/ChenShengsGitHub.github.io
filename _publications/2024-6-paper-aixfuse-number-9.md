@@ -2,7 +2,7 @@
 title: "Structure-aware dual-target drug design through collaborative learning of pharmacophore combination and molecular simulation"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-3
+permalink: /publication/2024-6-paper-aixfuse-number-9
 excerpt: 'Dual-target drug design'
 date: 2024-6
 venue: 'Chemical Science'
