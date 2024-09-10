@@ -15,4 +15,4 @@ I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen
 
 My work AIxFuse has been selected as the back cover for Chemical Science! AIxFuse is a dual-target drug design method based on reinforcement learning and active learning. [Read it!](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc00094c)
 
-![AIxFuse](/images/aixfuse.png")
+![AIxFuse](/images/aixfuse.jpg")
