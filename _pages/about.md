@@ -24,8 +24,6 @@ I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen
 
 **2023/11**  My co-first-author work **DeepMutSol** has recently been accepted by **Journal of Computational Chemistry**! Congratulations to Jing Wang! [Read it!](https://doi.org/10.1002/jcc.27249)
 
-**2022/10**  My second-author work **DiffDec** has recently been accepted by **Journal of Computational Chemistry**! Congratulations to Dr. Qianmu Yuan! [Read it!](https://doi.org/10.1021/acs.jcim.3c01466)
-
 **2022/10**  My second-author work **LMetalSite** has recently been accepted by **Briefings in Bioinformatics**! Congratulations to Dr. Qianmu Yuan! [Read it!](https://doi.org/10.1093/bib/bbac444)
 
 **2022/1**  My second-author work **GraphSite** has recently been accepted by **Briefings in Bioinformatics**! Congratulations to Dr. Qianmu Yuan! [Read it!](https://doi.org/10.1093/bib/bbab564)
