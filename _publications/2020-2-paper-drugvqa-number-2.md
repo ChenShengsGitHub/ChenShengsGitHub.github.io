@@ -2,7 +2,7 @@
 title: "Predicting drug–protein interaction using quasi-visual question answering system"
 collection: publications
 category: manuscripts
-permalink: /publication/2020-8-paper-drugvqa-number-2
+permalink: /publication/2020-2-paper-drugvqa-number-2
 excerpt: 'Identifying drug–protein interactions'
 date: 2020-2-14
 venue: 'Nature Machine Intelligence'
