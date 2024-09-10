@@ -1,3 +1,9 @@
+<style>
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
 ---
 permalink: /
 title: "About Me"
@@ -7,12 +13,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-p {
-  text-align: justify;
-  text-justify: inter-word;
-}
-</style>
 
 I am a fourth-year doctoral student at the School of Computer Science and Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). My research interests include machine learning, protein structure prediction, protein design, and drug molecular generation.
 
