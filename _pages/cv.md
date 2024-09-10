@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Sheng Chen"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Sun Yat-sen University, 2021-2025 (expected)
+* M.S. in Software Engineering, Sun Yat-sen University, 2018-2020
+* B.S. in Software Engineering, Sun Yat-sen University, 2014-2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022.8-2023.9: Director of AI
+  * AIxplorerBio Inc.
+  * Duties includes: AI-enpowered dual-target drug design
+  * Supervisor: David Daqiang Xu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020.7-2021.5: Software Development Engineer
+  * Huawei Technologies Co., Ltd.
+  * Duties included: Web development for HUAWEI Cloud based on Spring
+  * Supervisor: Yulin Zheng
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020.1-2020.5: AI Algorithm Intern
+  * Baidu Inc.
+  * Duties included: Vehicle damage assessment algorithm development
+  * Supervisor: Wei Zhang
 
 Publications
 ======
@@ -47,18 +38,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
