@@ -2,7 +2,7 @@
 title: "Alignment-free metal ion-binding site prediction from protein sequence through pretrained language model and multi-task learning"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-11-paper-deepmutsol-number-6
+permalink: /publication/2023-11-paper-lmetalsite-number-6
 excerpt: 'Mutation-caused protein solubility change prediction'
 date: 2024-1
 venue: 'Journal of Computational Chemistry'
