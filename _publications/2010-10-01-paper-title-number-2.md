@@ -3,8 +3,8 @@ title: "DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusio
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 'Pocket-conditioned molecular generation.'
+date: 2024-1
 venue: 'Journal of Chemical Information and Modeling'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
