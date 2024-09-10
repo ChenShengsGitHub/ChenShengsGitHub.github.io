@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2023-12-paper-graphebm-number-7
 excerpt: 'Protein side chain conformation prediction'
-date: 2023-12
+date: 2023-12-5
 venue: 'IEEE BIBM'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Liu, D., Chen, S., Zheng, S., Zhang, S., & Yang, Y. (2023, December). SE (3) Equivalent Graph Attention Network as an Energy-Based Model for Protein Side Chain Conformation. In 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 120-123). IEEE.'
