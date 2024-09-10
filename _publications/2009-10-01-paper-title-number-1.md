@@ -2,9 +2,9 @@
 title: "Structure-aware dual-target drug design through collaborative learning of pharmacophore combination and molecular simulation"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-2
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Dual-target drug design'
-date: 2009-10-01
+date: 2024-6
 venue: 'Chemical Science'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
