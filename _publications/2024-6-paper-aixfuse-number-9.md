@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-6-paper-aixfuse-number-9
 excerpt: 'Dual-target drug design'
-date: 2024-6
+date: 2024-6-13
 venue: 'Chemical Science'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
