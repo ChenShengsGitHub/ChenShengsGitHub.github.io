@@ -2,7 +2,7 @@
 title: "DiffDec: Structure-Aware Scaffold Decoration with an End-to-End Diffusion Model"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2024-1-paper-diffdec-number-8
 excerpt: 'Pocket-conditioned molecular generation.'
 date: 2024-1
 venue: 'Journal of Chemical Information and Modeling'
