@@ -6,7 +6,7 @@ permalink: /publication/2021-12-paper-segem-number-3
 excerpt: 'cryo-EM protein structure modeling'
 date: 2021-12-9
 venue: 'IEEE BIBM 2021'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: '/files/segem.pdf'
 citation: 'Chen, S., Zhang, S., Li, X., Liu, Y., & Yang, Y. (2021, December). SEGEM: A fast and accurate automated protein backbone structure modeling method for cryo-EM. In 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 24-31). IEEE.'
 ---
 
