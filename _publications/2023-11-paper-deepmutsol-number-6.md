@@ -6,8 +6,7 @@ permalink: /publication/2023-11-paper-deepmutsol-number-6
 excerpt: 'Mutation-caused protein solubility change prediction'
 date: 2023-11-7
 venue: 'Journal of Computational Chemistry'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '/files/deepmutsol.pdf'
 citation: 'Wang, J., Chen, S., Yuan, Q., Chen, J., Li, D., Wang, L., & Yang, Y. (2024). Predicting the effects of mutations on protein solubility using graph convolution network and protein language model representation. Journal of Computational Chemistry, 45(8), 436-445.'
 ---
 
