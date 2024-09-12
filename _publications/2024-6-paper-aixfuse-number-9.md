@@ -6,8 +6,7 @@ permalink: /publication/2024-6-paper-aixfuse-number-9
 excerpt: 'Dual-target drug design'
 date: 2024-6-13
 venue: 'Chemical Science'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '/files/aixfuse.pdf'
 citation: 'Chen, S., Xie, J., Ye, R., Xu, D. D., & Yang, Y. (2024). Structure-aware dual-target drug design through collaborative learning of pharmacophore combination and molecular simulation. Chemical Science, 15(27), 10366-10380.'
 ---
 
