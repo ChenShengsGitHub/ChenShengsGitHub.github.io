@@ -6,8 +6,7 @@ permalink: /publication/2022-10-paper-lmetalsite-number-5
 excerpt: 'identification of metal ion-binding residues'
 date: 2022-10-23
 venue: 'Briefings in Bioinformatics'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '/files/lmetalsite.pdf'
 citation: 'Yuan, Q., Chen, S., Wang, Y., Zhao, H., & Yang, Y. (2022). Alignment-free metal ion-binding site prediction from protein sequence through pretrained language model and multi-task learning. Briefings in bioinformatics, 23(6), bbac444.'
 ---
 
