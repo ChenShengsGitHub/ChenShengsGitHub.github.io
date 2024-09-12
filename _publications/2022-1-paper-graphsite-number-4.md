@@ -6,8 +6,7 @@ permalink: /publication/2022-1-paper-graphsite-number-4
 excerpt: 'identification of Protein–DNA interactions'
 date: 2022-1-17
 venue: 'Briefings in bioinformatics'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: '/files/graphsite.pdf'
 citation: 'Yuan, Q., Chen, S., Rao, J., Zheng, S., Zhao, H., & Yang, Y. (2022). AlphaFold2-aware protein–DNA binding site prediction using graph transformer. Briefings in Bioinformatics, 23(2), bbab564.'
 ---
 
