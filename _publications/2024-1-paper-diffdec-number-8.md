@@ -6,8 +6,7 @@ permalink: /publication/2024-1-paper-diffdec-number-8
 excerpt: 'Pocket-conditioned molecular generation.'
 date: 2024-1-24
 venue: 'Journal of Chemical Information and Modeling'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: '/files/diffdec.pdf'
 citation: 'Xie, J., Chen, S., Lei, J., & Yang, Y. (2024). DiffDec: structure-aware scaffold decoration with an end-to-end diffusion model. Journal of Chemical Information and Modeling, 64(7), 2554-2564.'
 ---
 
