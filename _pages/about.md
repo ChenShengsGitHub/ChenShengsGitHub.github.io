@@ -14,6 +14,12 @@ I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen
 
 # News
 
+**2024/9**  My work **EModelX** has recently been in-principle accepted by **Nature Communications**! [Preview it!](https://mts-ncomms.nature.com/ncomms_files/2024/08/23/00494098/02/494098_2_merged_1724434237.pdf)
+
+![AIxFuse](/images/emodelx.png)
+
+**2024/9** My third-author work **GraphEC** has recently been accepted by **Nature Communications**! Congratulations to Dr. Yidong Song! [Preview it!](https://doi.org/10.21203/rs.3.rs-4344209/v1)
+
 **2024/6** My work **AIxFuse** has recently been selected as the back cover for **Chemical Science**! AIxFuse is a dual-target drug design method based on reinforcement learning and active learning. [Read it!](https://doi.org/10.1039/D4SC00094C)
 
 ![AIxFuse](/images/aixfuse.jpg)
