@@ -16,7 +16,7 @@ I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen
 
 **2024/9**  My work **EModelX** has recently been in-principle accepted by **Nature Communications**! [Preview it!](https://mts-ncomms.nature.com/ncomms_files/2024/08/23/00494098/02/494098_2_merged_1724434237.pdf)
 
-![AIxFuse](/images/emodelx.png)
+![EModelX](/images/emodelx.png)
 
 **2024/9** My third-author work **GraphEC** has recently been accepted by **Nature Communications**! Congratulations to Dr. Yidong Song! [Preview it!](https://doi.org/10.21203/rs.3.rs-4344209/v1)
 
