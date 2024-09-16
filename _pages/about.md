@@ -16,13 +16,13 @@ I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen
 
 * **2024/9**  My work **EModelX** has recently been in-principle accepted by **Nature Communications**! EModelX is a fully automated cryo-EM protein complex structure modeling method. It has been compared with the SOTA method [ModelAngelo](https://doi.org/10.1038/s41586-024-07215-4) and showed outperformance in comprehensive metrics! [Preview it!](https://mts-ncomms.nature.com/ncomms_files/2024/08/23/00494098/02/494098_2_merged_1724434237.pdf) or [Try it!](https://bio-web1.nscc-gz.cn/app/EModelX)
 
-  * ![EModelX](/images/emodelx.png)
+  ![EModelX](/images/emodelx.png)
 
 * **2024/9** Congratulations to Dr. Yidong Song! My third-author work **GraphEC** has recently been accepted by **Nature Communications**! [Preview it!](https://doi.org/10.21203/rs.3.rs-4344209/v1)
 
 * **2024/6** My work **AIxFuse** has recently been selected as the back cover for **Chemical Science**! AIxFuse is a dual-target drug design method based on reinforcement learning and active learning. [Read it!](https://doi.org/10.1039/D4SC00094C)
 
-  * ![AIxFuse](/images/aixfuse.jpg)
+  ![AIxFuse](/images/aixfuse.jpg)
 
 * **2024/1**  My co-first-author work **DiffDec** has recently been accepted by **Journal of Chemical Information and Modeling**! Congratulations to Junjie Xie! [Read it!](https://doi.org/10.1021/acs.jcim.3c01466)
 
