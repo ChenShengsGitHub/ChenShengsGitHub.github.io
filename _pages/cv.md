@@ -24,7 +24,7 @@ Work experience
 
 * 2020.7-2021.5: Software Development Engineer
   * Huawei Technologies Co., Ltd.
-  * Duties included: Web development for HUAWEI Cloud based on Spring
+  * Duties included: CI/CD tools development for HUAWEI Cloud
   * Supervisor: Yulin Zheng
 
 * 2020.1-2020.5: AI Algorithm Intern
