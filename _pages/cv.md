@@ -22,7 +22,7 @@ Work experience
   * Duties includes: AI-enpowered dual-target drug design
   * Supervisor: David Daqiang Xu
 
-* 2020.7-2021.5: Software Development Engineer
+* 2020.8-2021.5: Software Development Engineer
   * Huawei Technologies Co., Ltd.
   * Duties included: CI/CD tools development for HUAWEI Cloud
   * Supervisor: Yulin Zheng
