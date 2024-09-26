@@ -19,7 +19,7 @@ Work experience
 ======
 * 2022.8-2023.9: Director of AI
   * AIxplorerBio Inc.
-  * Duties includes: AI-enpowered dual-target drug design
+  * Duties included: AI-enpowered dual-target drug design
   * Supervisor: David Daqiang Xu
 
 * 2020.8-2021.5: Software Development Engineer
