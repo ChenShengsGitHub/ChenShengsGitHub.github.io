@@ -20,7 +20,6 @@ I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen
 * **2024/9** Congratulations to Dr. Yidong Song! My third-author work **GraphEC** has recently been accepted by **Nature Communications**. ##[Read it](https://doi.org/10.1038/s41467-024-52533-w).
 
 * **2024/6** My work **AIxFuse** has recently been selected as the back cover article for **Chemical Science**! AIxFuse is a dual-target drug design method based on reinforcement learning and active learning. ##[Read it](https://doi.org/10.1039/D4SC00094C).
-
   ![AIxFuse](/images/aixfuse.jpg)
 
 * **2024/1**  My co-first-author work **DiffDec** has recently been accepted by **Journal of Chemical Information and Modeling**. Congratulations to Junjie Xie! ##[Read it](https://doi.org/10.1021/acs.jcim.3c01466).
