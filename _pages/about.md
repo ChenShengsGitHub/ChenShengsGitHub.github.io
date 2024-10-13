@@ -34,9 +34,8 @@ I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen
 * **2022/10**  Congratulations to Dr. Qianmu Yuan! My second-author work **LMetalSite** has recently been accepted by **Briefings in Bioinformatics**. [Read it](https://doi.org/10.1093/bib/bbac444).
 
 * **2022/3**  As the representative of our champion team, I attended the award ceremony of the ["Intel Innovation Master" Protein Structure Modeling Challenge with Cryo-EM](https://tianchi.aliyun.com/competition/entrance/531916/introduction?lang=en-us).
-  <img src=[https://img-blog.csdnimg.cn/20200822014538211.png](https://github.com/ChenShengsGitHub/ChenShengsGitHub.github.io/blob/master/images/honor.jpg) width=20% />
+  ![Honor](/images/honor.jpg =600x600).
   
-
 * **2022/1**  Congratulations to Dr. Qianmu Yuan! My second-author work **GraphSite** has recently been accepted by **Briefings in Bioinformatics**. [Read it](https://doi.org/10.1093/bib/bbab564).
 
 * **2021/12**  My work **SEGEM** has recently been accepted by **IEEE BIBM 2021**. [Read it](https://doi.org/10.1109/BIBM52615.2021.9669647).
