@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth-year doctoral student at the School of Computer Science and Engineering, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/). My research interests include _machine learning_ for protein structure prediction, protein design, and drug design.
 
-I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen University. I anticipate completing my doctoral studies by July 2024. I am currently seeking research positions, including roles in academia (faculty), postdoctoral positions, or in industry. My primary objective is to continue exploring scientific questions that I am passionate about.
+I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen University. I anticipate completing my doctoral studies by July 2025. I am currently seeking research positions, including roles in academia (faculty), postdoctoral positions, or in industry. My primary objective is to continue exploring scientific questions that I am passionate about.
 
 # News
 
