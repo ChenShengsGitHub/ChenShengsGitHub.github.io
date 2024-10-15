@@ -12,6 +12,8 @@ I am a fourth-year doctoral student at the School of Computer Science and Engine
 
 I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen University. I anticipate completing my doctoral studies by July 2025. I am currently seeking research positions, including roles in academia (faculty), postdoctoral positions, or in industry. My primary objective is to continue exploring scientific questions that I am passionate about.
 
+If you're interested in collaborating with me, feel free to download my [CV](/files/resume.pdf) for more information.
+
 # News
 
 * **2024/9**  My work **EModelX** has recently been accepted by **Nature Communications**! EModelX is a fully automated cryo-EM protein complex structure modeling method. It has been compared with the SOTA method [ModelAngelo](https://doi.org/10.1038/s41586-024-07215-4) and showed outperformance in comprehensive metrics. ##[Read it](https://www.nature.com/articles/s41467-024-53116-5) or [Use it](https://bio-web1.nscc-gz.cn/app/EModelX).
