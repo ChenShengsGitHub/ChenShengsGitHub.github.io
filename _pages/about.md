@@ -16,7 +16,7 @@ If you're interested in collaborating with me, feel free to download my [CV](/fi
 
 # News
 
-* **2024/9**  My work **EModelX** has recently been accepted by **Nature Communications**! EModelX is a fully automated cryo-EM protein complex structure modeling method. It has been compared with the SOTA method [ModelAngelo](https://doi.org/10.1038/s41586-024-07215-4) and showed outperformance in comprehensive metrics. ##[Read it](https://www.nature.com/articles/s41467-024-53116-5) or [Use it](https://bio-web1.nscc-gz.cn/app/EModelX).
+* **2024/10**  My work **EModelX** has recently been accepted by **Nature Communications**! EModelX is a fully automated cryo-EM protein complex structure modeling method. It has been compared with the SOTA method [ModelAngelo](https://doi.org/10.1038/s41586-024-07215-4) and showed outperformance in comprehensive metrics. ##[Read it](https://www.nature.com/articles/s41467-024-53116-5) or [Use it](https://bio-web1.nscc-gz.cn/app/EModelX).
   ![EModelX](/images/emodelx.png)
 
 * **2024/9** Congratulations to Dr. Yidong Song! My third-author work **GraphEC** has recently been accepted by **Nature Communications**. ##[Read it](https://doi.org/10.1038/s41467-024-52533-w).
