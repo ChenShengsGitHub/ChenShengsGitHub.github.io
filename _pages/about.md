@@ -16,13 +16,11 @@ If you're interested in collaborating with me, feel free to download my [CV](/fi
 
 # News
 
-* **2024/10**  My work **EModelX** has recently been accepted by **Nature Communications**! EModelX is a fully automated cryo-EM protein complex structure modeling method. It has been compared with the SOTA method [ModelAngelo](https://doi.org/10.1038/s41586-024-07215-4) and showed outperformance in comprehensive metrics. ##[Read it](https://www.nature.com/articles/s41467-024-53116-5) or [Use it](https://bio-web1.nscc-gz.cn/app/EModelX).
-  ![EModelX](/images/emodelx.png)
+* **2024/10**  My work [**EModelX**](/images/emodelx.png) has recently been accepted by **Nature Communications**! EModelX is a fully automated cryo-EM protein complex structure modeling method. It has been compared with the SOTA method [ModelAngelo](https://doi.org/10.1038/s41586-024-07215-4) and showed outperformance in comprehensive metrics. ##[Read it](https://www.nature.com/articles/s41467-024-53116-5) or [Use it](https://bio-web1.nscc-gz.cn/app/EModelX).
 
 * **2024/9** Congratulations to Dr. Yidong Song! My third-author work **GraphEC** has recently been accepted by **Nature Communications**. ##[Read it](https://doi.org/10.1038/s41467-024-52533-w).
 
-* **2024/6** My work **AIxFuse** has recently been selected as the back cover article for **Chemical Science**! AIxFuse is a dual-target drug design method based on reinforcement learning and active learning. ##[Read it](https://doi.org/10.1039/D4SC00094C).
-  ![AIxFuse](/images/aixfuse.png)
+* **2024/6** My work **AIxFuse** has recently been selected as the [back cover](/images/aixfuse.png) article for **Chemical Science**! AIxFuse is a dual-target drug design method based on reinforcement learning and active learning. ##[Read it](https://doi.org/10.1039/D4SC00094C).
 
 * **2024/1**  My co-first-author work **DiffDec** has recently been accepted by **Journal of Chemical Information and Modeling**. Congratulations to Junjie Xie! ##[Read it](https://doi.org/10.1021/acs.jcim.3c01466).
 
@@ -30,13 +28,11 @@ If you're interested in collaborating with me, feel free to download my [CV](/fi
 
 * **2023/11**  My co-first-author work **DeepMutSol** has recently been accepted by **Journal of Computational Chemistry**. Congratulations to Jing Wang! ##[Read it](https://doi.org/10.1002/jcc.27249).
 
-* **2023/6**  As the AI director of AixplorerBio Inc., I gave a presentation and participated in a roundtable discussion at [CAPR 2023](https://mp.weixin.qq.com/s/umFr3tHhYgUZ0o1SGNrFsQ).
-  ![Discuss](/images/discuss.jpg)
+* **2023/6**  As the AI director of AixplorerBio Inc., I gave a presentation and participated in a [roundtable discussion](/images/discuss.jpg) at [CAPR 2023](https://mp.weixin.qq.com/s/umFr3tHhYgUZ0o1SGNrFsQ).
 
 * **2022/10**  Congratulations to Dr. Qianmu Yuan! My second-author work **LMetalSite** has recently been accepted by **Briefings in Bioinformatics**. ##[Read it](https://doi.org/10.1093/bib/bbac444).
 
-* **2022/3**  As the representative of our champion team, I attended the award ceremony of the ["Intel Innovation Master" Protein Structure Modeling Challenge with Cryo-EM](https://tianchi.aliyun.com/competition/entrance/531916/introduction?lang=en-us).
-  ![Honor](/images/honor.jpg).
+* **2022/3**  As the representative of our champion team, I attended the [award ceremony](/images/honor.jpg) of the ["Intel Innovation Master" Protein Structure Modeling Challenge with Cryo-EM](https://tianchi.aliyun.com/competition/entrance/531916/introduction?lang=en-us).
   
 * **2022/1**  Congratulations to Dr. Qianmu Yuan! My second-author work **GraphSite** has recently been accepted by **Briefings in Bioinformatics**. ##[Read it](https://doi.org/10.1093/bib/bbab564).
 
