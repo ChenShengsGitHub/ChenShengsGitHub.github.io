@@ -12,7 +12,7 @@ I am Sheng (Shawn) Chen, a fourth-year doctoral student at the School of Compute
 
 I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen University. I anticipate completing my doctoral studies by July 2025. I am currently seeking research positions, including roles in academia (faculty), postdoctoral positions, or in industry. My primary objective is to continue exploring scientific questions that I am passionate about.
 
-If you're interested in collaborating with me, feel free to download my [CV](/files/resume.pdf) for more information. If you’d like a glimpse into my personality, here’s a [snapshot]((https://www.16personalities.com/profiles/entp-a/x/4mmrrymeq)) from a 16personalities assessment.
+If you're interested in collaborating with me, feel free to download my [CV](/files/resume.pdf) for more information. If you’d like a glimpse into my personality, here’s a [snapshot]((https://www.16personalities.com/profiles/entp-a/x/4mmrrymeq)) from a _16personalities assessment.
 
 # News
 
