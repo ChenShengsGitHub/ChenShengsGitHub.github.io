@@ -15,7 +15,7 @@ I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen
 If you're interested in collaborating with me, feel free to download my [CV](/files/resume.pdf) for more information. If you’d like a glimpse into my personality, here’s a [snapshot](https://www.16personalities.com/profiles/entp-a/x/4mmrrymeq) from a _16personalities_ assessment.
 
 # News
-* **2024/11** I was awarded the Tencent Scholarship from the School of Computer Science and Engineering at Sun Yat-sen University.
+* **2024/11** I have recently been awarded the Tencent Scholarship from the School of Computer Science and Engineering at Sun Yat-sen University.
 
 * **2024/11** My work **AIxFuse** has recently been awarded as [outstanding poster](/images/aixfuse_poster.png) by the first AI for Science doctoral student academic conference in the Guangdong-Hong Kong-Macao Greater Bay Area.
 
