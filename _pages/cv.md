@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sheng Chen"
-permalink: /files/resume.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
