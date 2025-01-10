@@ -12,7 +12,7 @@ I am Sheng (Shawn) Chen, a fourth-year doctoral student at the School of Compute
 
 I am fortunate to be under the guidance of Professor Yuedong Yang at Sun Yat-sen University. I anticipate completing my doctoral studies by July 2025. I am currently seeking research positions. My primary objective is to continue exploring _machine learning for life science_—a field I am deeply passionate about.
 
-If you're interested in collaborating with me, feel free to download my [resume](/files/resume.pdf) for more information. 
+If you're interested in collaborating with me, feel free to download my [resume](/files/CV_chensheng_with_ref.pdf) for more information. 
 
 # News
 * **2024/11** I have recently been awarded the Tencent Scholarship by Sun Yat-sen University and Tencent.
